@@ -1,6 +1,6 @@
 # Web Server & User Architecture
 
-<kbd>![image](img/k8s-architecture.png)</kbd>
+<kbd>![image](img/user_server.png)</kbd>
 
 ## 1️⃣ Code  
 
