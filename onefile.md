@@ -9,3 +9,12 @@
 
 # Linux
 <kbd>![image](img/linux.png)</kbd>
+
+# Linux file system
+<kbd>![image](img/linux_filesystem.png)</kbd>
+
+# Deploy ccd clone on nginx
+<kbd>![image](img/nginx-d.png)</kbd>
+
+# On-Premise vs cloud
+<kbd>![image](img/perms%20vs%20cloud.png)</kbd>
